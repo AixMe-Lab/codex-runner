@@ -32,4 +32,3 @@ jobs:
         with:
           name: codex-output
           path: outputs/output.txt
-
