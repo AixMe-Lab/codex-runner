@@ -2,7 +2,7 @@ name: Run Codex CLI
 
 on:
   workflow_dispatch:
-    push:
+  push:
     paths:
       - "inputs/**.txt"
 
