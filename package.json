@@ -1,0 +1,12 @@
+{
+  "name": "codex-runner",
+  "version": "1.0.0",
+  "description": "Codex CLI runner for GitHub Actions",
+  "scripts": {
+    "run": "bash scripts/run_codex.sh inputs/input.txt outputs/output.txt"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@openai/codex-cli": "^0.1.0"
+  }
+}
